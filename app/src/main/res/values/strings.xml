@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">STT Offline</string>
+    <string name="channel_name">Caption Overlay</string>
+    <string name="notif_caption_text">Caption overlay is active</string>
+    <string name="settings">Settings</string>
+    <string name="reset_defaults">Reset to Defaults</string>
+</resources>

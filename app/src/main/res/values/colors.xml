@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_primary">#050505</color>
+    <color name="bg_surface">#111111</color>
+    <color name="border">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#888888</color>
+    <color name="text_hint">#383838</color>
+    <color name="accent">#00D68F</color>
+    <color name="accent_blue">#4B96FF</color>
+    <color name="danger">#FF4444</color>
+    <color name="btn_disabled">#222222</color>
+    <color name="btn_record">#00D68F</color>
+    <color name="btn_stop">#FF4444</color>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "VoskLive"
+include ':app'
